@@ -14,3 +14,11 @@
 linked lists now and how to create a Node and my own Linked List.
 
 **Link to work:** [LinkedList](https://github.com/GearoidDC/Java-Examples)
+
+### Day 3: May 04, 2020
+**Today's Progress**: Worked on Binary Trees using Comparable and Interfaces
+
+**Thoughts:**  I know to to implement a Comparable object and to use generics but I'm not sure it'll cover my exam question. 
+Need to practise more questions in the future to iron it out 100%.
+
+**Link to work:** [BinaryTrees](https://github.com/GearoidDC/Java-Examples)
