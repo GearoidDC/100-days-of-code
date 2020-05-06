@@ -22,3 +22,11 @@ linked lists now and how to create a Node and my own Linked List.
 Need to practise more questions in the future to iron it out 100%.
 
 **Link to work:** [BinaryTrees](https://github.com/GearoidDC/Java-Examples)
+
+### Day 4: May 05, 2020
+**Today's Progress**: Exam was today! Worked on Breadth-first search
+
+**Thoughts:**  Exam was tough enough. For sure need to work on comparable objects and generics still! Had a bit of fun playing around
+with Breadth-first Search might make a little game.
+
+**Link to work:** Link to be added have my code mixed in with exam code I don't want to upload yet
