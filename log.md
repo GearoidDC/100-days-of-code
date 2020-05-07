@@ -30,3 +30,13 @@ Need to practise more questions in the future to iron it out 100%.
 with Breadth-first Search might make a little game.
 
 **Link to work:** Link to be added have my code mixed in with exam code I don't want to upload yet
+
+### Day 5: May 06, 2020
+**Today's Progress**: Setting up a MicroService using spring boot
+
+**Thoughts:**  I'm working long with a video tutorial with from [Java Brains](https://www.youtube.com/watch?v=y8IQb4ofjDo&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas&index=1). Got through the first 20 short videos got another 4 to go then time to mess around with it
+myself! Seems pretty simple. Tech: Spring Boot, Eureka.
+
+**Link to work:** [Movie Catalogue](https://github.com/GearoidDC/UsersMovieCatalog)
+
+
