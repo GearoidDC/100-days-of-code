@@ -39,4 +39,12 @@ myself! Seems pretty simple. Tech: Spring Boot, Eureka.
 
 **Link to work:** [Movie Catalogue](https://github.com/GearoidDC/UsersMovieCatalog)
 
+### Day 6: May 07, 2020
+**Today's Progress**: Trying to get heroku to work with the microservices
+
+**Thoughts:**  Spent way too much time trying to figure out how to make these microservices to work through heroku and eureka. Completed the first part of the tutorial though and will start part 2 though. Can see the big gap in my knowledge.
+
+**Link to work:** [Movie Catalogue](https://github.com/GearoidDC/UsersMovieCatalog)
+
+
 
