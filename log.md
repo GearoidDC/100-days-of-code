@@ -46,5 +46,11 @@ myself! Seems pretty simple. Tech: Spring Boot, Eureka.
 
 **Link to work:** [Movie Catalogue](https://github.com/GearoidDC/UsersMovieCatalog)
 
+### Day 7: May 08, 2020
+**Today's Progress**: Nearly completed part 2 of [JavaBrains](https://www.youtube.com/watch?v=WfsomLHaSzQ&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e&index=21) it is mostly about Hystrix
+
+**Thoughts:**  Learned some really interesting information about circuit breaker patterns and how hystrix can be used as a "circuit breaker" with micro services. I'll complete the tutorial in the morning then study for my exams! 
+
+**Link to work:** [Movie Catalogue](https://github.com/GearoidDC/UsersMovieCatalog)
 
 
