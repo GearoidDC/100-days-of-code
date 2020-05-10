@@ -53,4 +53,11 @@ myself! Seems pretty simple. Tech: Spring Boot, Eureka.
 
 **Link to work:** [Movie Catalogue](https://github.com/GearoidDC/UsersMovieCatalog)
 
+### Day 8: May 09, 2020
+**Today's Progress**: Completed part 2 of [JavaBrains](https://www.youtube.com/watch?v=WfsomLHaSzQ&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e&index=21) and studying design patterns.
+
+**Thoughts:**  Learned about bulkhead pattern seems very useful. Other three I'm learning how to implement are Observer, Factory and the Decorator pattern. They seem basic enough but will take practise to learn when to implement them.
+
+**Link to work:** [Movie Catalogue](https://github.com/GearoidDC/UsersMovieCatalog)
+
 
