@@ -60,4 +60,11 @@ myself! Seems pretty simple. Tech: Spring Boot, Eureka.
 
 **Link to work:** [Movie Catalogue](https://github.com/GearoidDC/UsersMovieCatalog)
 
+### Day 9: May 10, 2020
+**Today's Progress**: Worked through examples on Factory, Decorator patterns
+
+**Thoughts:**  I feel I have a good handle of implementing these patterns now and that I would have a good idea of when they would be needed.
+
+**Link to work:** Might upload the Examples I did
+
 
