@@ -73,3 +73,11 @@ myself! Seems pretty simple. Tech: Spring Boot, Eureka.
 **Thoughts:** Reading and writing from files is fairly simple but gets more complicated when trying to serialization and deserialization of that data. I have to learn how to send objects also through sockets.
 
 **Link to work:** NA Exam study
+
+### Day 11: May 12, 2020
+**Today's Progress**: Completed my final exam for the semester and read 50 pages of "Clean Code"
+
+**Thoughts:** Exam went fairly well still have to go over socket elements and exceptions fully.
+The "Clean Code" book is very informative even if good bit goes over my head.
+
+**Link to work:** NA
