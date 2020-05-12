@@ -67,4 +67,9 @@ myself! Seems pretty simple. Tech: Spring Boot, Eureka.
 
 **Link to work:** Might upload the Examples I did
 
+### Day 10: May 11, 2020
+**Today's Progress**: Studying how to read/write data from files and using Sockets
 
+**Thoughts:** Reading and writing from files is fairly simple but gets more complicated when trying to serialization and deserialization of that data. I have to learn how to send objects also through sockets.
+
+**Link to work:** NA Exam study
