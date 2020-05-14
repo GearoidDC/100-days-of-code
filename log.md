@@ -80,4 +80,12 @@ myself! Seems pretty simple. Tech: Spring Boot, Eureka.
 **Thoughts:** Exam went fairly well still have to go over socket elements and exceptions fully.
 The "Clean Code" book is very informative even if good bit goes over my head.
 
-**Link to work:** NA
+**Link to work:** Text book no link
+
+### Day 12: May 13, 2020
+**Today's Progress**: Read a few more pages of "Clean Code" and made a good start on Ruby Project
+
+**Thoughts:** The ruby project I'm working on is on for college is a single page site is seems a bit off!
+Had forgotten a lot about using ruby on rails but got it back quickly also bootstrap is too good.
+
+**Link to work:** College work can't show
