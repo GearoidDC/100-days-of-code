@@ -88,4 +88,11 @@ The "Clean Code" book is very informative even if good bit goes over my head.
 **Thoughts:** The ruby project I'm working on is on for college is a single page site is seems a bit off!
 Had forgotten a lot about using ruby on rails but got it back quickly also bootstrap is too good.
 
-**Link to work:** College work can't show
+**Link to work:** College work can't show yet
+
+### Day 13: May 14, 2020
+**Today's Progress**: Read a few more pages of "Clean Code" and add modals to rails project
+
+**Thoughts:** Made a lot of progress today got stuck on a few parts though. Have to clean up my code but it is looking really well.
+
+**Link to work:** College work can't show yet
