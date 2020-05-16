@@ -96,3 +96,11 @@ Had forgotten a lot about using ruby on rails but got it back quickly also boots
 **Thoughts:** Made a lot of progress today got stuck on a few parts though. Have to clean up my code but it is looking really well.
 
 **Link to work:** College work can't show yet
+
+### Day 14: May 15, 2020
+**Today's Progress**: Read a few more pages of "Clean Code" and add highlights and ajax to rails project
+
+**Thoughts:** Spent way too much time trying to get stuff to work a certain way when I'm not even asked for it.
+Going to work on just getting the core functioning 100% and if I have time make the improvements want.
+
+**Link to work:** College work can't show yet
