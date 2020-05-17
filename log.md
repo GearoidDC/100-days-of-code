@@ -104,3 +104,10 @@ Had forgotten a lot about using ruby on rails but got it back quickly also boots
 Going to work on just getting the core functioning 100% and if I have time make the improvements want.
 
 **Link to work:** College work can't show yet
+
+### Day 15: May 16, 2020
+**Today's Progress**: Completed all the functionally for my Rails project
+
+**Thoughts:** Have all the modals I want made now I'm just going to work on refactoring my code and trying to make it nice and DRY.
+
+**Link to work:** College work can't show yet
