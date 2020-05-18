@@ -111,3 +111,11 @@ Going to work on just getting the core functioning 100% and if I have time make 
 **Thoughts:** Have all the modals I want made now I'm just going to work on refactoring my code and trying to make it nice and DRY.
 
 **Link to work:** College work can't show yet
+
+
+### Day 16: May 17, 2020
+**Today's Progress**: Worked on cleaning up my code and implementing DRY in my Rails project
+
+**Thoughts:** My code looks pretty nice now but my implemenation of DRY is not all covering some elements are repeated but would be a lot of work to refactor and isn't high enough priorty.
+
+**Link to work:** College work can't show yet
