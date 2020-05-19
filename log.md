@@ -88,14 +88,14 @@ The "Clean Code" book is very informative even if good bit goes over my head.
 **Thoughts:** The ruby project I'm working on is on for college is a single page site is seems a bit off!
 Had forgotten a lot about using ruby on rails but got it back quickly also bootstrap is too good.
 
-**Link to work:** College work can't show yet
+**Link to work:** [EducationRecruiter](https://github.com/GearoidDC/EducationRec)
 
 ### Day 13: May 14, 2020
 **Today's Progress**: Read a few more pages of "Clean Code" and add modals to rails project
 
 **Thoughts:** Made a lot of progress today got stuck on a few parts though. Have to clean up my code but it is looking really well.
 
-**Link to work:** College work can't show yet
+**Link to work:** [EducationRecruiter](https://github.com/GearoidDC/EducationRec)
 
 ### Day 14: May 15, 2020
 **Today's Progress**: Read a few more pages of "Clean Code" and add highlights and ajax to rails project
@@ -103,14 +103,14 @@ Had forgotten a lot about using ruby on rails but got it back quickly also boots
 **Thoughts:** Spent way too much time trying to get stuff to work a certain way when I'm not even asked for it.
 Going to work on just getting the core functioning 100% and if I have time make the improvements want.
 
-**Link to work:** College work can't show yet
+**Link to work:** [EducationRecruiter](https://github.com/GearoidDC/EducationRec)
 
 ### Day 15: May 16, 2020
 **Today's Progress**: Completed all the functionally for my Rails project
 
 **Thoughts:** Have all the modals I want made now I'm just going to work on refactoring my code and trying to make it nice and DRY.
 
-**Link to work:** College work can't show yet
+**Link to work:** [EducationRecruiter](https://github.com/GearoidDC/EducationRec)
 
 
 ### Day 16: May 17, 2020
@@ -118,4 +118,4 @@ Going to work on just getting the core functioning 100% and if I have time make 
 
 **Thoughts:** My code looks pretty nice now but my implemenation of DRY is not all covering some elements are repeated but would be a lot of work to refactor and isn't high enough priorty.
 
-**Link to work:** College work can't show yet
+**Link to work:** [EducationRecruiter](https://github.com/GearoidDC/EducationRec)
