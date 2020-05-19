@@ -119,3 +119,11 @@ Going to work on just getting the core functioning 100% and if I have time make 
 **Thoughts:** My code looks pretty nice now but my implemenation of DRY is not all covering some elements are repeated but would be a lot of work to refactor and isn't high enough priorty.
 
 **Link to work:** [EducationRecruiter](https://github.com/GearoidDC/EducationRec)
+
+### Day 17: May 18, 2020
+**Today's Progress**: Completed my College project 
+
+**Thoughts:** Very happy with how my code ended up and my report I really put in a lot of extra work.
+Going to now work on completting MOOC and trying to get another project going.
+
+**Link to work:** [EducationRecruiter](https://github.com/GearoidDC/EducationRec)
