@@ -127,3 +127,11 @@ Going to work on just getting the core functioning 100% and if I have time make 
 Going to now work on completting MOOC and trying to get another project going.
 
 **Link to work:** [EducationRecruiter](https://github.com/GearoidDC/EducationRec)
+
+### Day 18: May 19, 2020
+**Today's Progress**: Read free more pages of Clean Code and worked on Mooc course problems.
+
+**Thoughts:** Bit of a relaxed day but in a bit over the minimun of the amount of work I want to do a day.
+I still need to work a bit more on 100% understand all the fundementals in Java.
+
+**Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-8/1-recap)
