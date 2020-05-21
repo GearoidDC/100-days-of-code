@@ -135,3 +135,10 @@ Going to now work on completting MOOC and trying to get another project going.
 I still need to work a bit more on 100% understand all the fundementals in Java.
 
 **Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-8/1-recap)
+
+### Day 19: May 20, 2020
+**Today's Progress**: Completed Part 8 of mooc course
+
+**Thoughts:** Learned a lot about hashmaps and how they use equals and hashcode.
+
+**Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-8/1-recap)
