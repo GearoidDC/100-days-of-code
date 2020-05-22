@@ -142,3 +142,10 @@ I still need to work a bit more on 100% understand all the fundementals in Java.
 **Thoughts:** Learned a lot about hashmaps and how they use equals and hashcode.
 
 **Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-8/1-recap)
+
+### Day 20: May 21, 2020
+**Today's Progress**: Completed 9 questionsin Part 9 of Mooc Course
+
+**Thoughts:** Have a better understanding of "Programming to interfaces" and abstract classes
+
+**Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-9/2-interface)
