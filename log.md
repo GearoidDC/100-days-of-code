@@ -149,3 +149,12 @@ I still need to work a bit more on 100% understand all the fundementals in Java.
 **Thoughts:** Have a better understanding of "Programming to interfaces" and abstract classes
 
 **Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-9/2-interface)
+
+### Day 21: May 22, 2020
+**Today's Progress**: Completed Part 9 of Mooc Course and worked on website
+
+**Thoughts:** Covered more abstract classes and interface problems. 
+Got stuck for a long time trying to make simple changes I didn't understand the tech.
+Should have spent more time understanding it than trying to ham fist it.
+
+**Link to work:** [My Blog](https://www.teatimecode.com)
