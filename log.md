@@ -158,3 +158,12 @@ Got stuck for a long time trying to make simple changes I didn't understand the 
 Should have spent more time understanding it than trying to ham fist it.
 
 **Link to work:** [My Blog](https://www.teatimecode.com)
+
+### Day 22: May 23, 2020
+**Today's Progress**: Completed more MOOC problems for part 10 and made a blog post
+
+**Thoughts:** Streams feel a bit complicated at the moment but more work and I'm sure I'll get them.
+Need to improve my blog layout and posts.
+
+**Link to work:** [My Blog](https://www.teatimecode.com)
+
