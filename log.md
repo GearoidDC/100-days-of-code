@@ -167,3 +167,12 @@ Need to improve my blog layout and posts.
 
 **Link to work:** [My Blog](https://www.teatimecode.com)
 
+### Day 23: May 24, 2020
+**Today's Progress**: Completed more MOOC problems for part 10
+
+**Thoughts:** Learned about lambdas in Java (Anonymous functions) they seem useful for streams.
+Learned about handling collections using streams and a streams terminal and intermedidate operations.
+I feel I have a solid grasp of them and want to use them in a project soon.
+
+**Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-10/1-handling-collections-as-streams)
+
