@@ -176,3 +176,10 @@ I feel I have a solid grasp of them and want to use them in a project soon.
 
 **Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-10/1-handling-collections-as-streams)
 
+### Day 24: May 25, 2020
+**Today's Progress**: Completed more MOOC problems for part 10 streams from files
+
+**Thoughts:** Using comparable with streams is something I'll have to work on a good bit to get.
+
+**Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-10/2-interface-comparable)
+
