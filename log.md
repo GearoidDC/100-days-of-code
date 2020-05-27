@@ -183,3 +183,12 @@ I feel I have a solid grasp of them and want to use them in a project soon.
 
 **Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-10/2-interface-comparable)
 
+
+### Day 25: May 26, 2020
+**Today's Progress**: Completed more MOOC problems for part 10 Regular expression & StringBuilder
+
+**Thoughts:** Good to get a refresher on Regular expressions for Java.
+Stringbuilder only really useful where efficiency is critical.
+
+**Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-10/3-other-useful-techniques)
+
