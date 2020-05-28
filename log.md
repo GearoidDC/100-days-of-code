@@ -192,3 +192,11 @@ Stringbuilder only really useful where efficiency is critical.
 
 **Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-10/3-other-useful-techniques)
 
+
+### Day 26: May 27, 2020
+**Today's Progress**: Completed completed part 10 of MOOC Enumerated Type and Iterators
+
+**Thoughts:** Have a much better idea of how and why to use Iterators.
+Enumerated types seem useful for making a game with finite directions or items.
+
+**Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-10/3-other-useful-techniques)
