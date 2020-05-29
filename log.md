@@ -200,3 +200,11 @@ Stringbuilder only really useful where efficiency is critical.
 Enumerated types seem useful for making a game with finite directions or items.
 
 **Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-10/3-other-useful-techniques)
+
+### Day 27: May 28, 2020
+**Today's Progress**: Completed first section and half of the second section of part 11 of MOOC
+
+**Thoughts:** Going over Class diagrams was useful to just to solidify my knowledge.
+Learning about how to properly organise files into packages if something I'm missing.
+
+**Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-11/2-packages)
