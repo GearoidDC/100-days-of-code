@@ -208,3 +208,10 @@ Enumerated types seem useful for making a game with finite directions or items.
 Learning about how to properly organise files into packages if something I'm missing.
 
 **Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-11/2-packages)
+
+### Day 28: May 29, 2020
+**Today's Progress**: Worked on Exception questions in MOOC course
+
+**Thoughts:** I am going to put in some time to properly learn how to neatly use exceptions.
+
+**Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-11/3-exceptions)
