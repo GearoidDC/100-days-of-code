@@ -215,3 +215,10 @@ Learning about how to properly organise files into packages if something I'm mis
 **Thoughts:** I am going to put in some time to properly learn how to neatly use exceptions.
 
 **Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-11/3-exceptions)
+
+### Day 29: May 30, 2020
+**Today's Progress**: Made blog post
+
+**Thoughts:** Have to prepare blog posts more they are a lot of work
+
+**Link to work:** [My Blog](https://www.teatimecode.com)
