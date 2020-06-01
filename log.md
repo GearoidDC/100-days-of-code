@@ -222,3 +222,11 @@ Learning about how to properly organise files into packages if something I'm mis
 **Thoughts:** Have to prepare blog posts more they are a lot of work
 
 **Link to work:** [My Blog](https://www.teatimecode.com)
+
+
+### Day 30: May 31, 2020
+**Today's Progress**: Completed part 11 of MOOC course
+
+**Thoughts:** Reading and writing to files seems pretty straight forward.
+
+**Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-11/4-processing-files)
