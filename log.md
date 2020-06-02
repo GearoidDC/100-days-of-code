@@ -230,3 +230,11 @@ Learning about how to properly organise files into packages if something I'm mis
 **Thoughts:** Reading and writing to files seems pretty straight forward.
 
 **Link to work:** [Mooc Course](https://java-programming.mooc.fi/part-11/4-processing-files)
+
+### Day 31: June 01, 2020
+**Today's Progress**: Read chapters of Clean code about Unit testing and Classes
+
+**Thoughts:** Adding more lines of code is ok if you are spliting up classes and making the 
+material more orgainsed.
+
+**Link to work:** NA Clean Code Book
