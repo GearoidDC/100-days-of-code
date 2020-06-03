@@ -238,3 +238,11 @@ Learning about how to properly organise files into packages if something I'm mis
 material more orgainsed.
 
 **Link to work:** NA Clean Code Book
+
+### Day 32: June 02, 2020
+**Today's Progress**: Learned some basics of machine learning
+
+**Thoughts:** Seems like I would have to learn a lot in a short amount of time to properly apply it to a game like tetris.
+It is a topic I'm very interested in just not sure fits my time frame for my project.
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
