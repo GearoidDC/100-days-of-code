@@ -246,3 +246,11 @@ material more orgainsed.
 It is a topic I'm very interested in just not sure fits my time frame for my project.
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 33: June 03, 2020
+**Today's Progress**: Learned about cost function and Gradient Descent
+
+**Thoughts:** Looks a lot more complicated than it is at the moment.
+Engineering degree coming in handy with the maths for sure.
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
