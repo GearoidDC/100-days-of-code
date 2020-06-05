@@ -254,3 +254,10 @@ It is a topic I'm very interested in just not sure fits my time frame for my pro
 Engineering degree coming in handy with the maths for sure.
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 34: June 04, 2020
+**Today's Progress**: Learned about the normal equation and polynomial regression
+
+**Thoughts:** Have to go over over the maths again if I want to fully get what is going on with the normal equation.
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
