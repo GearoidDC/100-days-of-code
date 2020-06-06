@@ -261,3 +261,10 @@ Engineering degree coming in handy with the maths for sure.
 **Thoughts:** Have to go over over the maths again if I want to fully get what is going on with the normal equation.
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 35: June 05, 2020
+**Today's Progress**: Applied Gradient Descent formula in python
+
+**Thoughts:** A little bit confused as to why my Matrices had to be rearranged to work.
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
