@@ -268,3 +268,10 @@ Engineering degree coming in handy with the maths for sure.
 **Thoughts:** A little bit confused as to why my Matrices had to be rearranged to work.
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 36: June 06, 2020
+**Today's Progress**: Learned about Decision Boundaries and Logistic Regression
+
+**Thoughts:** It all makes a lot of sense but I can see easy to forget if I don't apply it soon.
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
