@@ -282,3 +282,10 @@ Engineering degree coming in handy with the maths for sure.
 **Thoughts:** Regularization is very useful for helping with overfitting of data.
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 38: June 08, 2020
+**Today's Progress**: Completed week 3 of course and learned a bit about neural networks
+
+**Thoughts:** Still just as exicted about machine learning. Happy I solved the assignment problems without help.
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
