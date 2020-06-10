@@ -289,3 +289,10 @@ Engineering degree coming in handy with the maths for sure.
 **Thoughts:** Still just as exicted about machine learning. Happy I solved the assignment problems without help.
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 39: June 09, 2020
+**Today's Progress**: Completed assignements to implement neural network for handwritting
+
+**Thoughts:** Reminder if your code seems right check the data actually loaded in properly!
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
