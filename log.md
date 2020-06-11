@@ -296,3 +296,10 @@ Engineering degree coming in handy with the maths for sure.
 **Thoughts:** Reminder if your code seems right check the data actually loaded in properly!
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 40: June 10, 2020
+**Today's Progress**: Learned about backPropagation
+
+**Thoughts:** Looking forward to applying neural networks properly soon
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
