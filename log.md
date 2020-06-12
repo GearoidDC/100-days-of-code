@@ -303,3 +303,10 @@ Engineering degree coming in handy with the maths for sure.
 **Thoughts:** Looking forward to applying neural networks properly soon
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 41: June 11, 2020
+**Today's Progress**: Learned about gradient checking and symmetry breaking
+
+**Thoughts:** Very complicated over all but easy enough to apply the steps
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
