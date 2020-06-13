@@ -310,3 +310,10 @@ Engineering degree coming in handy with the maths for sure.
 **Thoughts:** Very complicated over all but easy enough to apply the steps
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 42: June 12, 2020
+**Today's Progress**: Applied Neural networks for hand written numbers
+
+**Thoughts:** Have to continue to get a better understanding of the maths behind it
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
