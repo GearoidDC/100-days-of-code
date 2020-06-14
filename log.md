@@ -317,3 +317,10 @@ Engineering degree coming in handy with the maths for sure.
 **Thoughts:** Have to continue to get a better understanding of the maths behind it
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 42: June 12, 2020
+**Today's Progress**: Learned about evaluating and model selection
+
+**Thoughts:** Blog posts need more effort to be interesting.
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
