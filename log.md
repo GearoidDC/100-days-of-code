@@ -318,9 +318,16 @@ Engineering degree coming in handy with the maths for sure.
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
 
-### Day 42: June 12, 2020
+### Day 43: June 13, 2020
 **Today's Progress**: Learned about evaluating and model selection
 
 **Thoughts:** Blog posts need more effort to be interesting.
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 44: June 14, 2020
+**Today's Progress**: Learned error analysis for machine learning
+
+**Thoughts:** Will work on the assignment problems tommorrow. Have to start learning more information directly to do with my project.
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
