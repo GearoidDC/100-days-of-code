@@ -331,3 +331,10 @@ Engineering degree coming in handy with the maths for sure.
 **Thoughts:** Will work on the assignment problems tommorrow. Have to start learning more information directly to do with my project.
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 45: June 15, 2020
+**Today's Progress**: Worked on my college project 
+
+**Thoughts:** Pygame is very fun to use! Looking forward to making this game.
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
