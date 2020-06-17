@@ -338,3 +338,10 @@ Engineering degree coming in handy with the maths for sure.
 **Thoughts:** Pygame is very fun to use! Looking forward to making this game.
 
 **Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+
+### Day 46: June 16, 2020
+**Today's Progress**: Simulated lines sent in Tetris 
+
+**Thoughts:** Try figure out the code before trying to modify it.
+
+**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
