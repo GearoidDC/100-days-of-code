@@ -337,11 +337,18 @@ Engineering degree coming in handy with the maths for sure.
 
 **Thoughts:** Pygame is very fun to use! Looking forward to making this game.
 
-**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+**Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
 
 ### Day 46: June 16, 2020
 **Today's Progress**: Simulated lines sent in Tetris 
 
 **Thoughts:** Try figure out the code before trying to modify it.
 
-**Link to work:** [Machine Learning](https://www.coursera.org/learn/machine-learning/home/info)
+**Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
+
+### Day 47: June 17, 2020
+**Today's Progress**: Tetris is now Multiplayer
+
+**Thoughts:** I should figure out how to properly share gifs of my project on twitter :D
+
+**Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
