@@ -352,3 +352,11 @@ Engineering degree coming in handy with the maths for sure.
 **Thoughts:** I should figure out how to properly share gifs of my project on twitter :D
 
 **Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
+
+### Day 48: June 18, 2020
+**Today's Progress**: Minor bug fixs for project
+
+**Thoughts:** I want to look at starting to work at a basic tetris AI. 
+Need to write up a plan of what I want to have for my Tetris game to be functional.
+
+**Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
