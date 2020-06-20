@@ -360,3 +360,10 @@ Engineering degree coming in handy with the maths for sure.
 Need to write up a plan of what I want to have for my Tetris game to be functional.
 
 **Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
+
+### Day 49: June 19, 2020
+**Today's Progress**: Added bar for lines sent
+
+**Thoughts:** Going to continue watching more lectures on reinforcement learning instead of jumping into the code for it yet.
+
+**Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
