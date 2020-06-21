@@ -367,3 +367,11 @@ Need to write up a plan of what I want to have for my Tetris game to be function
 **Thoughts:** Going to continue watching more lectures on reinforcement learning instead of jumping into the code for it yet.
 
 **Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
+
+### Day 50: June 20, 2020
+**Today's Progress**: Learned about types of reinforcement learning
+
+**Thoughts:** As always the constant reminder blog post work harder on them.
+So far I've found the lectures by David Silver on reinforcement learning great.
+
+**Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
