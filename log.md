@@ -375,3 +375,10 @@ Need to write up a plan of what I want to have for my Tetris game to be function
 So far I've found the lectures by David Silver on reinforcement learning great.
 
 **Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
+
+### Day 51: June 21, 2020
+**Today's Progress**: Learned about the Markov decision Process
+
+**Thoughts:** Got what I wanted to do today done but want to be more organised with my time.
+
+**Link to work:** [David Silver RL](https://www.youtube.com/watch?v=lfHX2hHRMVQ&t=157s)
