@@ -382,3 +382,10 @@ So far I've found the lectures by David Silver on reinforcement learning great.
 **Thoughts:** Got what I wanted to do today done but want to be more organised with my time.
 
 **Link to work:** [David Silver RL](https://www.youtube.com/watch?v=lfHX2hHRMVQ&t=157s)
+
+### Day 52: June 22, 2020
+**Today's Progress**: Learned about using Dynamic programming to get the optimal policy
+
+**Thoughts:** Seems straight forward very interested in the issues it can be used to solve
+
+**Link to work:** [David Silver RL](https://www.youtube.com/watch?v=Nd1-UUMVfz4&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=3)
