@@ -389,3 +389,10 @@ So far I've found the lectures by David Silver on reinforcement learning great.
 **Thoughts:** Seems straight forward very interested in the issues it can be used to solve
 
 **Link to work:** [David Silver RL](https://www.youtube.com/watch?v=Nd1-UUMVfz4&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=3)
+
+### Day 53: June 23, 2020
+**Today's Progress**: Learned model free prediction methods
+
+**Thoughts:** Very interesting material and really well done course.
+
+**Link to work:** [David Silver RL](https://www.youtube.com/watch?v=PnHCvfgC_ZA)
