@@ -396,3 +396,10 @@ So far I've found the lectures by David Silver on reinforcement learning great.
 **Thoughts:** Very interesting material and really well done course.
 
 **Link to work:** [David Silver RL](https://www.youtube.com/watch?v=PnHCvfgC_ZA)
+
+### Day 54: June 24, 2020
+**Today's Progress**: Learned model free control methods
+
+**Thoughts:** Found a github which contains examples to work on for Q learning so will try them next.
+
+**Link to work:** [David Silver RL](https://www.youtube.com/watch?v=PnHCvfgC_ZA)
