@@ -404,9 +404,17 @@ So far I've found the lectures by David Silver on reinforcement learning great.
 
 **Link to work:** [David Silver RL](https://www.youtube.com/watch?v=PnHCvfgC_ZA)
 
-### Day 54: June 24, 2020
+### Day 55: June 25, 2020
 **Today's Progress**: Fixed Return button and allow the game to loop
 
 **Thoughts:** Just have to really go through someone elses code in detail to understand how to implement RL
+
+**Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
+
+### Day 56: June 26, 2020
+**Today's Progress**: Added bags of 7 for pieces and wall kicks to project
+
+**Thoughts:** Lots of little elements I never thought about in Tetris. 
+Right now I'm running a project by someone else using Deep Q learning. Hopefully I can learn a lot from it.
 
 **Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
