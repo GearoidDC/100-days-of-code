@@ -418,3 +418,10 @@ So far I've found the lectures by David Silver on reinforcement learning great.
 Right now I'm running a project by someone else using Deep Q learning. Hopefully I can learn a lot from it.
 
 **Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
+
+### Day 57: June 29, 2020
+**Today's Progress**: Worked on the training section
+
+**Thoughts:** Need to spend some time to clean up and refactor the code
+
+**Link to work:** [Tetris AI](https://github.com/GearoidDC/TetrisAI)
